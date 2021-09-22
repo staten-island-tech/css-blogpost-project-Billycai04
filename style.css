@@ -1,14 +1,22 @@
 body {
-  background-color: red;
-  color: blue;
-  font-size: 25px;
+  background-color: lightblue;
 }
-h1 {
-  color: green;
+.head {
+  color: darkblue;
+  text-align: center;
+  border: 3px solid blue;
+  background-color: orange;
+  padding: 50px 25px;
 }
-.main-header {
-  color: white;
+.sub-head {
+  color: teal;
+  margin: 20px auto;
 }
-#id {
-  color: purple;
+.body {
+  color: slateblue;
+}
+.background {
+  background-color: salmon;
+  padding: 5px 5px;
+  border: 3px solid cyan;
 }
