@@ -7,16 +7,30 @@ body {
   border: 3px solid blue;
   background-color: orange;
   padding: 50px 25px;
-}
-.sub-head {
-  color: teal;
-  margin: 20px auto;
-}
-.body {
-  color: slateblue;
+  font-family: "Italianno", cursive;
 }
 .background {
   background-color: salmon;
   padding: 5px 5px;
   border: 3px solid cyan;
+}
+.sub-head {
+  color: teal;
+  margin: 20px auto;
+}
+.span {
+  color: crimson;
+}
+.body {
+  color: slateblue;
+}
+.second-body {
+  color: blueviolet;
+  font-size: 25px;
+  text-align: center;
+  margin: 20px auto;
+  border: 3px solid;
+  padding: 100px 50px;
+  background-image: url(img/Water.jpg);
+  background-position: center;
 }
