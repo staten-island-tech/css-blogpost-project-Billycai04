@@ -4,33 +4,52 @@ body {
 .head {
   color: darkblue;
   text-align: center;
-  border: 3px solid blue;
-  background-color: orange;
-  padding: 50px 25px;
+  border: 5px solid blue;
+  background-color: aquamarine;
+  padding: 75px 50px;
   font-family: "Italianno", cursive;
+  font-size: 75px;
+  background-image: url(img/water.jpg);
 }
-.background {
-  background-color: salmon;
-  padding: 5px 5px;
-  border: 3px solid cyan;
-}
-.sub-head {
-  color: teal;
-  margin: 20px auto;
-}
-.span {
-  color: crimson;
-}
-.body {
-  color: slateblue;
-}
-.second-body {
+.dolphin {
   color: blueviolet;
   font-size: 25px;
   text-align: center;
   margin: 20px auto;
   border: 3px solid;
   padding: 100px 50px;
-  background-image: url(img/Water.jpg);
+  height: 300px;
+  width: 300px;
+  background-image: url(img/dolphine.jpg);
   background-position: center;
+  background-size: 400px;
+}
+.whale {
+  color: blueviolet;
+  font-size: 25px;
+  text-align: center;
+  margin: 20px auto;
+  border: 3px solid;
+  padding: 100px 50px;
+  height: 300px;
+  width: 300px;
+  background-image: url(img/whale.jpg);
+  background-position: center;
+  background-size: 1000px;
+}
+.shark {
+  color: blueviolet;
+  font-size: 25px;
+  text-align: center;
+  margin: 20px auto;
+  border: 3px solid;
+  padding: 100px 50px;
+  height: 300px;
+  width: 300px;
+  background-image: url(img/shark.jpg);
+  background-position: center;
+  background-size: 950px;
+}
+.text {
+  font-size: 20px;
 }
