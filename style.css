@@ -11,8 +11,8 @@ body {
   font-size: 75px;
   background-image: url(img/water.jpg);
 }
-.dolphin {
-  color: blueviolet;
+.title {
+  color:darkviolet;
   font-size: 25px;
   text-align: center;
   margin: 20px auto;
@@ -20,32 +20,18 @@ body {
   padding: 100px 50px;
   height: 300px;
   width: 300px;
+}
+.dolphin {
   background-image: url(img/dolphine.jpg);
   background-position: center;
   background-size: 400px;
 }
 .whale {
-  color: blueviolet;
-  font-size: 25px;
-  text-align: center;
-  margin: 20px auto;
-  border: 3px solid;
-  padding: 100px 50px;
-  height: 300px;
-  width: 300px;
   background-image: url(img/whale.jpg);
   background-position: center;
   background-size: 1000px;
 }
 .shark {
-  color: blueviolet;
-  font-size: 25px;
-  text-align: center;
-  margin: 20px auto;
-  border: 3px solid;
-  padding: 100px 50px;
-  height: 300px;
-  width: 300px;
   background-image: url(img/shark.jpg);
   background-position: center;
   background-size: 950px;
